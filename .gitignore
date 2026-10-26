@@ -1,0 +1,10 @@
+/build/
+.DS_Store
+/work/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+__pycache__/
+.venv/
